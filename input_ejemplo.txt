@@ -1,0 +1,3 @@
+convertir 1 DolarEstadounidense a LempiraHondureño$
+convertir 1000 LempiraHondureño a DolarEstadounidense$
+convertir 25 Euro a Peso_Mexicano$
